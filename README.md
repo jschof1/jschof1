@@ -1,8 +1,23 @@
 
-# 💫 About Me:
-<br>- 🔭 I’m currently working on **building an [AI assisted risk assessment tool](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/)** <br><br><br>- 💬 Ask me about **open-source e-learning technologies, react, svelte, ui deisgn, next.js**<br><br>- 📫 Feel free to reach me out **jackschofield1@gmail.com**<br><br>-- Discover how you can get a bespoke website built by me and my team at [Aspect Studio](aspectstudio.net).<br><br>- 🏠 Visit my website called [jacksdev](jacksdev.com).<br>
+# Well, hello there 🤓
 
-# Some useful apps I built recently
+🔭 **Selected Current Projects:**  
+- [AI Assisted Risk Assessment Tool](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/): Innovating in the field of risk analysis and management.  
+- [Music Discovery Platform](https://elovera.co.uk): A pioneering platform for exploring new musical horizons.
+
+💬 **Expertise:**  
+Feel free to ask me about e-learning, front-end development, design, and music. I'm always excited to share insights and engage in meaningful conversations in these areas.
+
+📫 **Contact Me:**  
+For inquiries, collaborations, or just a friendly chat, drop me an email at jackschofield1@gmail.com.
+
+🌱 **Web Development Services:**  
+Discover bespoke website solutions tailored to your needs. Learn more about our services at [Aspect Studio](aspectstudio.net).
+
+🏠 **Personal Website:**  
+For a deeper dive into my work and projects, visit my [personal website](jacksdev.com).
+
+# Some handy apps I built recently
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Netlify Link](https://html-to-adapt.netlify.app) |
