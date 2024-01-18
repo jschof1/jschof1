@@ -1,7 +1,7 @@
 # Well, hello there 🤓
 
-### 🌟 My Current Professional Engagement
-- **Open Data Institute:** At the forefront of creating visually compelling and educational courses. The Institute is committed to enabling individuals and organizations to unlock the power of open data. Discover more at the [Open Data Institute](https://learning.theodi.org/).
+### 🌟 Current Professional Engagement
+- **Open Data Institute:** At the forefront of developing visually compelling and educational courses. The Institute is committed to enabling individuals and organizations to unlock the power of open data. Discover more at the [Open Data Institute](https://learning.theodi.org/).
 
 ### 🚀 Current Projects
 - **AI Assisted Risk Assessment Tool:** I'm part of an exciting project to advance risk analysis and management. Learn more about this innovation [here](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/).
