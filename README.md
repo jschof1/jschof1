@@ -1,9 +1,11 @@
-
 # Well, hello there 🤓
 
-🔭 **Selected Current Projects:**  
-- [AI Assisted Risk Assessment Tool](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/): Innovating in the field of risk analysis and management.  
-- [Music Discovery Platform](https://elovera.co.uk): A pioneering platform for exploring new musical horizons.
+### 🌟 My Professional Engagement
+- **Open Data Institute:** At the forefront of creating visually compelling and educational courses. The Institute is committed to enabling individuals and organizations to unlock the power of open data. Discover more at the [Open Data Institute](https://learning.theodi.org/).
+
+### 🚀 Current Projects
+- **AI Assisted Risk Assessment Tool:** I'm part of an exciting project to advance risk analysis and management. Learn more about this innovation [here](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/).
+- **Elovera - A Party and a Music Discovery Platform:** Steering a groundbreaking initiative in music discovery. Dive into the work-in-progress musical journey at [Elovera](https://elovera.co.uk).
 
 💬 **Expertise:**  
 Feel free to ask me about e-learning, front-end development, design, and music. I'm always excited to share insights and engage in meaningful conversations in these areas.
