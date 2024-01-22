@@ -14,10 +14,10 @@ Feel free to ask me about e-learning, front-end development, design, and music. 
 For inquiries, collaborations, or just a friendly chat, drop me an email at jackschofield1@gmail.com.
 
 🌱 **Web Development Services:**  
-Discover bespoke website solutions tailored to your needs. Learn more about our services at [Aspect Studio](aspectstudio.net).
+Discover bespoke website solutions tailored to your needs. Learn more about our services at [Aspect Studio](https://aspectstudio.net).
 
 🏠 **Personal Website:**  
-For a deeper dive into my work and projects, visit my [personal website](jacksdev.com).
+For a deeper dive into my work and projects, visit my [personal website](https://jacksdev.com).
 
 # Some handy apps I built recently
 | Project | Description | Live Demo |
