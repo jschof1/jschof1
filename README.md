@@ -22,10 +22,10 @@ For a deeper dive into my work and projects, visit my [personal website](https:/
 # Some handy apps I built recently
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Netlify Link](https://html-to-adapt.netlify.app) |
-| 🎨 [Color Swapper](https://github.com/jschof1/color-swapper) | Change colours with a few clicks | [Netlify Link](https://color-swapper.netlify.app) |
-| 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Netlify Link](https://moodle-quick-links.netlify.app) |
-| 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Netlify Link](https://vinylvaluecheck.netlify.app) |
+| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](jschof1.github.io/html-to-adapt/) |
+| 🎨 [Color Swapper](https://github.com/jschof1/color-swapper) | Change colours with a few clicks | [Netlify Link](https://color-swap.netlify.app) |
+| 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
+| 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aspectstudiouk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-schofield-developer/) 
