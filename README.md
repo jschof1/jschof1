@@ -23,7 +23,7 @@ For a deeper dive into my work and projects, visit my [personal website](https:/
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](jschof1.github.io/html-to-adapt/) |
-| 🎨 [Color Swapper](https://github.com/jschof1/color-swapper) | Change colours with a few clicks | [Netlify Link](https://color-swap.netlify.app) |
+| 🎨 [Color Swapper](https://github.com/jschof1/color-swapper) | Change colours with a few clicks | [Link](https://color-swap.netlify.app) |
 | 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
 | 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
 
