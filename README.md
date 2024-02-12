@@ -1,9 +1,9 @@
 # Well, hello there 🤓
 
-### 🌟 Current Professional Engagement
+### 🌟 Recent Professional Engagement
 - **Open Data Institute:** At the forefront of developing visually compelling and educational courses. The Institute is committed to enabling individuals and organizations to unlock the power of data. Discover more at the [Open Data Institute](https://learning.theodi.org/).
 
-### 🚀 Current Projects
+### 🚀 Recent Projects
 - **ODI AI Assisted Risk Assessment Tool:** I am leading the development of an exciting project to advance data risk analysis and management. Learn more about this innovation [here](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/).
 - **Elovera - A Party and a Music Discovery Platform:** Steering a groundbreaking initiative in music discovery. Dive into the work-in-progress musical journey at [Elovera](https://elovera.co.uk).
 
