@@ -1,4 +1,10 @@
-### Free Palestine. [Donate today](https://www.map.org.uk/).
+***
+<div align="center">
+<h3> Free Palestine. <a href="https://www.map.org.uk/"> Donate Today</a>.</h3>
+</div>
+
+***
+
 
 # Well, hello there 🤓
 
