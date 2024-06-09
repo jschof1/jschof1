@@ -1,6 +1,6 @@
 ***
 <div align="center">
-<h3> Free Palestine. <a href="https://www.map.org.uk/"> Donate Today</a>.</h3>
+<h3> Free Palestine. <a href="https://www.map.org.uk/?form=FUNFXHDCJPK"> Help Save Lives By Donating Today</a>.</h3>
 </div>
 
 ***
