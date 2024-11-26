@@ -8,35 +8,60 @@
 
 # Well, hello there 🤓
 
-### 🌟 Recent Professional Engagement
-- **Open Data Institute:** At the forefront of developing visually compelling and educational courses. The Institute is committed to enabling individuals and organizations to unlock the power of data. Discover more at the [Open Data Institute](https://learning.theodi.org/).
 
-### 🚀 Recent Projects
-- **ODI AI Assisted Risk Assessment Tool:** I am leading the development of an exciting project to advance data risk analysis and management. Learn more about this innovation [here](https://theodi.org/insights/tools/consequence-and-risk-evaluation-care-tool/).
-- **Elovera - A Party and a Music Discovery Platform:** Steering a groundbreaking initiative in music discovery. Dive into the work-in-progress musical journey at [Elovera](https://elovera.co.uk).
+I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to create websites that work seamlessly and make life a bit easier for everyone.
 
-💬 **Expertise:**  
-Feel free to ask me about e-learning, front-end development, design, and music. I'm always excited to share insights and engage in meaningful conversations in these areas.
+# My Web Persuits
 
-📫 **Contact Me:**  
-For inquiries, collaborations, or just a friendly chat, drop me an email at jackschofield1@gmail.com.
+## 📍 Lowcl Web: Business-in-a-Box Franchise for Aspiring Web Agencies
 
-🌱 **Web Development Services:**  
-Discover bespoke website solutions tailored to your needs. Learn more about our services at [Aspect Studio](https://aspectstudio.net).
+| Feature | Description |
+|---------|-------------|
+| 💼 **Business-in-a-Box** | Start your own web agency with no upfront development costs. Lowcl Web offers everything you need to run a successful business, including tools, training, and support. |
+| 🌐 **Custom Websites** | Build modern, high-performing websites tailored to client needs. Whether it's a basic website or an e-commerce platform, Lowcl Web makes it simple and affordable. |
+| 💻 **White-Label Product** | Operate under your brand with white-label tools and services, allowing you to build your own reputation while using Lowcl Web's proven framework. |
+| 📈 **Flexible Pricing** | Franchisees can set their own pricing to match the market, e.g., charging £150/month or £1,000 upfront plus £150/month for ongoing support. |
+| 🎓 **Comprehensive Training** | Access one-on-one sales and technical training to refine your skills and gain confidence in client calls. Additional support is available for closing deals. |
+| 🔄 **Subscription-Based Model** | Offer subscription packages to clients, providing ongoing services and building a consistent revenue stream. |
+| 🛠️ **Low Build Costs** | Build websites for as little as £20 per project, keeping your overheads low and profits high. E-commerce builds are also available at slightly higher costs. |
+| 📊 **Hosting on AWS** | Every website is hosted on reliable AWS servers, ensuring speed, security, and scalability for clients. |
+| 🔍 **Proven Process** | A streamlined two-call process helps screen and onboard franchisees, ensuring only the most committed entrepreneurs join. |
+| 🚀 **Start-Up Cost** | Begin your journey for just £1,470, an affordable entry point to owning a web agency. |
+| 🤝 **Ongoing Support** | Benefit from continuous assistance to grow your business, from technical support to client management strategies. |
 
-🌱 **Web Agency Services:** 
-On a mission to help skilled joiners attract a steady stream of their dream clients at [Joiners Digital](joinersdigital.com)
+Lowcl Web empowers you to start and grow your own web agency with minimal risk and maximum support. Whether you're a seasoned professional or a beginner, our franchise model provides the tools and guidance needed for success.
 
-🏠 **Personal Website:**  
-For a deeper dive into my work and projects, visit my [personal website](https://jacksdev.com).
+## Aspect Studio: Unlimited Revisions, Expert Web Services
+
+| Feature | Description |
+|---------|-------------|
+| 🌐 **Custom Web Design** | Tailored, high-performance websites designed to reflect your brand and meet your business goals. |
+| 🛠️ **Unlimited Revisions** | Get the exact website you envision with our unlimited revision policy until you're 100% satisfied. |
+| 📈 **SEO Optimisation** | Every website is optimised to rank well on search engines, driving traffic and boosting visibility. |
+| ⚡ **Lightning-Fast Performance** | Deliver seamless user experiences with fast-loading, mobile-responsive websites built to perform. |
+| 💻 **Expert Developers** | Work with experienced web developers who bring a deep understanding of design, functionality, and scalability. |
+| 🎨 **Full Brand Integration** | From colour schemes to typography, we ensure your site aligns perfectly with your brand identity. |
+| 💾 **Hosting and Maintenance** | Enjoy peace of mind with managed hosting and ongoing site maintenance included. |
+| 💡 **Transparent Pricing** | Affordable subscription-based pricing with no upfront costs, making premium web services accessible for all businesses. |
+| 📞 **Dedicated Support** | Access ongoing support and guidance to ensure your website evolves as your business grows. |
+| 🔄 **Flexibility** | Perfect for businesses that need regular updates, evolving functionality, or an ever-changing design. |
+
+### Pricing Example:
+- **Subscription-Based**: Pay a flat monthly fee, including design, development, unlimited revisions, hosting, and maintenance.
+- **No Upfront Costs**: Start your project without financial barriers. Only pay after your trial period if you're satisfied.
 
 # Some handy apps I built recently
+
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](jschof1.github.io/html-to-adapt/) |
-| 🎨 [Color Swapper](https://github.com/jschof1/color-swapper) | Change colours with a few clicks | [Link](https://color-swap.netlify.app) |
+| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](https://jschof1.github.io/html-to-adapt/) |
 | 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
 | 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
+| ✏️ [HTML to JSON Editor](https://github.com/jschof1/html-to-json) | Insert your extracted JSON and edit HTML templates with ease | [Link](https://html-to-json.netlify.app) |
+| 🌟 [HTML to Astro JSON DB](https://github.com/jschof1/html-to-astro-json-db) | Convert large HTML files to dynamic Astro-ready JSON and XLSX CMS tools | [Link](https://html-to-astro-json-db.netlify.app) |
+| 📷 [Unsplash Image Generator](https://github.com/jschof1/unsplash-image-gen) | Enter an API key and download topic-based images in specific sizes | [Link](https://unsplash-image-gen.netlify.app) |
+| 🎨 [Color Swap Tool](https://github.com/jschof1/color-swap-tool) | Swap colours of any image seamlessly | [Link](https://app.netlify.com/sites/color-swap/overview) |
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aspectstudiouk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-schofield-developer/) 
