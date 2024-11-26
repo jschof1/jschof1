@@ -11,7 +11,7 @@
 
 I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to create websites that work seamlessly and make life a bit easier for everyone.
 
-# My Web Persuits
+# My Web Pursuits 
 
 ## 📍 Lowcl Web: Business-in-a-Box Franchise for Aspiring Web Agencies
 
