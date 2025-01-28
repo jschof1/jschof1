@@ -9,7 +9,7 @@
 # Well, hello there 🤓
 
 
-I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to create websites that work seamlessly and make life a bit easier for everyone.
+I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to make things that life better.
 
 # My Web Pursuits 
 
