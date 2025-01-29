@@ -16,6 +16,7 @@ I like building things from scratch – websites, ideas, and occasionally flat-p
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | 🎭 [Shadow Styler](https://github.com/jschof1/shadow-styler) | Create and customise blob shadows with ease | [Link](https://shadow-styler.netlify.app) |
+| 🗂️ [Mac File Organiser](https://github.com/jschof1/organise-my-mac/) | Scirpt to automatically organises your files and folders by categorising them into predefined folders |
 | 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](https://jschof1.github.io/html-to-adapt/) |
 | 📷 [Unsplash Image Generator](https://github.com/jschof1/unsplash-image-gen) | Enter an API key and download topic-based images in specific sizes | [Link](https://unsplash-image-gen.netlify.app) |
 | 🎨 [Color Swap Tool](https://github.com/jschof1/color-swap-tool) | Swap colours of any image seamlessly | [Link](https://app.netlify.com/sites/color-swap/overview) |
