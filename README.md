@@ -11,6 +11,19 @@
 
 I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to create things that make life better.
 
+# Some handy things I built recently
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🎭 [Shadow Styler](https://github.com/jschof1/shadow-styler) | Create and customise blob shadows with ease | [Link](https://shadow-styler.netlify.app) |
+| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](https://jschof1.github.io/html-to-adapt/) |
+| 📷 [Unsplash Image Generator](https://github.com/jschof1/unsplash-image-gen) | Enter an API key and download topic-based images in specific sizes | [Link](https://unsplash-image-gen.netlify.app) |
+| 🎨 [Color Swap Tool](https://github.com/jschof1/color-swap-tool) | Swap colours of any image seamlessly | [Link](https://app.netlify.com/sites/color-swap/overview) |
+| 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
+| 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
+| ✏️ [HTML to JSON Editor](https://github.com/jschof1/html-to-json) | Insert your extracted JSON and edit HTML templates with ease | [Link](https://html-to-json.netlify.app) |
+| 🌟 [HTML to Astro JSON DB](https://github.com/jschof1/html-to-astro-json-db) | Convert large HTML files to dynamic Astro-ready JSON and XLSX CMS tools | [Link](https://html-to-astro-json-db.netlify.app) |
+
 # My Web Pursuits 
 
 ## 📍 Lowcl Web: Business-in-a-Box Franchise for Aspiring Web Agencies
@@ -49,19 +62,6 @@ Lowcl Web empowers you to start and grow your own web agency with minimal risk a
 ### Pricing Example:
 - **Subscription-Based**: Pay a flat monthly fee, including design, development, unlimited revisions, hosting, and maintenance.
 - **No Upfront Costs**: Start your project without financial barriers. Only pay after your trial period if you're satisfied.
-
-# Some handy apps I built recently
-
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 🎭 [Shadow Styler](https://github.com/jschof1/shadow-styler) | Create and customise blob shadows with ease | [Link](https://shadow-styler.netlify.app) |
-| 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](https://jschof1.github.io/html-to-adapt/) |
-| 📷 [Unsplash Image Generator](https://github.com/jschof1/unsplash-image-gen) | Enter an API key and download topic-based images in specific sizes | [Link](https://unsplash-image-gen.netlify.app) |
-| 🎨 [Color Swap Tool](https://github.com/jschof1/color-swap-tool) | Swap colours of any image seamlessly | [Link](https://app.netlify.com/sites/color-swap/overview) |
-| 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
-| 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
-| ✏️ [HTML to JSON Editor](https://github.com/jschof1/html-to-json) | Insert your extracted JSON and edit HTML templates with ease | [Link](https://html-to-json.netlify.app) |
-| 🌟 [HTML to Astro JSON DB](https://github.com/jschof1/html-to-astro-json-db) | Convert large HTML files to dynamic Astro-ready JSON and XLSX CMS tools | [Link](https://html-to-astro-json-db.netlify.app) |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aspectstudiouk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-schofield-developer/) 
