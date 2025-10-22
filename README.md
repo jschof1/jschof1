@@ -19,7 +19,7 @@ I like building things from scratch – websites, ideas, and occasionally flat-p
 | 🗂️ [Mac File Organiser](https://github.com/jschof1/organise-my-mac/) | Scirpt to automatically organises your files and folders by categorising them into predefined folders |
 | 📄 [HTML to Adapt Converter](https://github.com/jschof1/html-to-adapt) | Convert HTML to JSON for Adapt Framework | [Link](https://jschof1.github.io/html-to-adapt/) |
 | 📷 [Unsplash Image Generator](https://github.com/jschof1/unsplash-image-gen) | Enter an API key and batch download topic-based images in specific sizes | [Link](https://unsplash-image-gen.netlify.app) |
-| 🎨 [Color Swap Tool](https://github.com/jschof1/color-swap-tool) | Swap colours of any image seamlessly | [Link](https://color-swap.netlify.app) |
+| 🎨 [Color Swap Tool](https://github.com/jschof1/color-swapper) | Swap colours of any image seamlessly | [Link](https://color-swap.netlify.app) |
 | 📚 [Moodle Quick Links](https://github.com/jschof1/moodle-quick-links) | Switch between test and live Moodle environments | [Link](https://local-quick-links.netlify.app) |
 | 💿 [Vinyl Value Check](https://github.com/jschof1/VinylValueCheck) | Check the price of your record collection | [Link](https://vinyl-value.netlify.app) |
 | ✏️ [HTML to JSON Editor](https://github.com/jschof1/html-to-json) | Insert your extracted JSON and edit HTML templates with ease | [Link](https://html-to-json.netlify.app) |
