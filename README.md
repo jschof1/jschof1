@@ -9,7 +9,7 @@
 # Well, hello there 🤓
 
 
-I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same: to create things that make life better.
+I like building things from scratch – websites, ideas, and occasionally flat-pack furniture (with mixed results). With a background in philosophy, a love of music, and training in counselling, I’ve learned to do the overthinking so others don’t have to. The goal is always the same, make stuff.
 
 ![](https://github-readme-stats.vercel.app/api?username=jschof1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jschof1&theme=dark&hide_border=true)<br/>
